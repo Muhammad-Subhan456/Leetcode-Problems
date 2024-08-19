@@ -8,6 +8,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0890-lemonade-change](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Math
@@ -24,6 +25,7 @@
 | ------- |
 | [0890-lemonade-change](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
@@ -41,11 +43,13 @@
 ## Counting
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Sorting
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 ## String
 |  |
