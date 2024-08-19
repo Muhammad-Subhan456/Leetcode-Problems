@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0890-lemonade-change](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Math
@@ -22,11 +23,13 @@
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 ## String
 |  |
