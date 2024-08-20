@@ -17,6 +17,7 @@
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2507-number-of-common-factors](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2507-number-of-common-factors) |
 ## Matrix
 |  |
 | ------- |
@@ -64,4 +65,12 @@
 |  |
 | ------- |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
