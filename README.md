@@ -55,4 +55,8 @@
 |  |
 | ------- |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
