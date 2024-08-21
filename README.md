@@ -36,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 ## Binary Search
@@ -45,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Counting
 |  |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Simulation
 |  |
 | ------- |
