@@ -6,14 +6,13 @@ public:
         int sum=0;
         int swap=i;
             while(swap>0){
-                int mod = swap % 10;
-                sum+=mod;
+                sum+= (swap%10);
                 swap/=10;
             }
             if(sum%2==0)
                 count++;
-            
         }
+            
         return count;
     }
 };
