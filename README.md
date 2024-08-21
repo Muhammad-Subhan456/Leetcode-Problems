@@ -17,6 +17,7 @@
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2507-number-of-common-factors](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2507-number-of-common-factors) |
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Matrix
@@ -70,6 +71,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2507-number-of-common-factors](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
