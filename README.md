@@ -75,6 +75,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -107,4 +108,16 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
