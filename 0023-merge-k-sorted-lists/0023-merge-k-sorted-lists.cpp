@@ -33,9 +33,12 @@ public:
         return Dummy->next;}
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if(lists.size()==0) return nullptr;
-        ListNode *head = lists[0];
-        for(int i = 1; i < lists.size(); ++i)
-            head = mergeTwoLists(head,lists[i]);
-        return head;
+        while(lists.size()>1){
+            ListNode* mergedHead = mergeTwoLists(lists[0],lists[1]);
+            lists.push_back(mergedHead);
+            lists.erase(lists.begin());
+            lists.erase(lists.begin());
+        }
+    return lists[0];
     }
 };
