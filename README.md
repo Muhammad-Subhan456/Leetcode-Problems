@@ -14,6 +14,7 @@
 | [1791-richest-customer-wealth](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0141-linked-list-cycle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
