@@ -8,7 +8,6 @@ public:
             }
             else{
                 if(!st.empty()){
-                    char top = st.top();
                     if((s[i]==')'&& st.top()=='(')||
                        (s[i]=='}'&& st.top()=='{')||
                        (s[i]==']'&& st.top()=='['))
@@ -21,9 +20,6 @@ public:
                     return false;
             }
     }
-    if(st.empty())
-        return true;
-    return false;
-
+    return st.empty();
     }
 };
