@@ -85,6 +85,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
@@ -159,6 +160,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
