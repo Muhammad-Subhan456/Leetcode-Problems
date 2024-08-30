@@ -94,6 +94,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2470-removing-stars-from-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3447-clear-digits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3447-clear-digits) |
@@ -128,6 +129,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2470-removing-stars-from-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3447-clear-digits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Enumeration
@@ -176,6 +178,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
