@@ -45,6 +45,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
@@ -95,6 +97,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -180,6 +183,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3447-clear-digits) |
