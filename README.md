@@ -98,6 +98,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
@@ -185,6 +186,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
