@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
@@ -279,4 +280,8 @@
 | [0232-implement-queue-using-stacks](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0860-design-circular-queue) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
