@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
