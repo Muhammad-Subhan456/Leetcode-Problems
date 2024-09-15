@@ -132,6 +132,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -177,6 +178,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2155-find-missing-observations) |
@@ -247,6 +249,7 @@
 | [0983-validate-stack-sequences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
