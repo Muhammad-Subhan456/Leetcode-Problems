@@ -45,6 +45,7 @@
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
