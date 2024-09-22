@@ -11,14 +11,13 @@
 class Solution {
 public:
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
-        if(!head || !head->next) return head;
-        ListNode* temp = head;
-        while(temp->next!= NULL){
-            ListNode* node = new ListNode(gcd(temp->val,temp->next->val));
-            node->next = temp->next;
-            temp->next = node;
-            temp = temp->next->next;
-        }
-        return head;
+    ListNode* temp = head;
+    while(temp->next){
+    ListNode* GCD = new ListNode(gcd(temp->val,temp->next->val));
+    GCD->next = temp->next;
+    temp->next = GCD;
+    temp = temp->next->next;
+    } 
+    return head;
     }
 };
