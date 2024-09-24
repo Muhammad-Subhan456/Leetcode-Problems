@@ -328,4 +328,5 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
