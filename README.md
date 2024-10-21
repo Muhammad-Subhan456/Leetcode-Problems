@@ -79,6 +79,7 @@
 | [2066-add-minimum-number-of-rungs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2066-add-minimum-number-of-rungs) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [2881-split-strings-by-separator](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
