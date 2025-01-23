@@ -39,6 +39,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2881-split-strings-by-separator](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2881-split-strings-by-separator) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -160,6 +161,7 @@
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2881-split-strings-by-separator](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
@@ -308,6 +310,7 @@
 | ------- |
 | [1206-corporate-flight-bookings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1206-corporate-flight-bookings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Queue
 |  |
 | ------- |
