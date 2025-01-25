@@ -7,8 +7,7 @@ public:
         m[s[i]]++;
     }
     for(auto pair : m){
-        if(pair.second <=2) count += pair.second;
-        else if(pair.second%2==0) count+=2;
+        if(pair.second%2==0) count+=2;
         else count+=1;
     }
     return count;
