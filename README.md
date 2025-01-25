@@ -126,6 +126,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
@@ -133,6 +134,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3447-clear-digits) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
 |  |
