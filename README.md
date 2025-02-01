@@ -154,6 +154,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0874-backspace-string-compare](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0878-shifting-letters) |
@@ -353,6 +354,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Memoization
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -404,6 +407,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -419,6 +423,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
