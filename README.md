@@ -10,6 +10,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -291,6 +293,7 @@
 | [0143-reorder-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
