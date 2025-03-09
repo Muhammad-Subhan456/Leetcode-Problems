@@ -115,6 +115,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -180,6 +181,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
@@ -315,6 +317,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2128-reverse-prefix-of-word](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
