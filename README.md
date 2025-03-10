@@ -177,6 +177,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -314,6 +315,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
