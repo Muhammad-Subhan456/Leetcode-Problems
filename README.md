@@ -92,6 +92,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2066-add-minimum-number-of-rungs) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -285,6 +286,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0148-sort-list) |
+| [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -427,6 +429,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -445,6 +448,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -465,6 +469,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -480,4 +485,5 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
