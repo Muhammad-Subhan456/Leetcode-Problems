@@ -439,6 +439,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -480,6 +481,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -491,6 +493,7 @@
 | [0112-path-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
