@@ -20,19 +20,18 @@ public:
 
     vector<int> findMode(TreeNode* root) {
     vector<int>a;
-    vector<int>mode;
     inorder(root,a);
     map<int,int>m;
-    for(auto e : a)
-        m[e]++;
     int maxi = INT_MIN;
-    for(auto e : m){
-        maxi = max(maxi,e.second); 
+    for(auto e : a){
+        m[e]++;
+        maxi = max(maxi,m[e]); 
     }
+    a.clear();
     for(auto e : m){
         if(e.second==maxi)
-            mode.push_back(e.first);
+            a.push_back(e.first);
     } 
-    return mode;
+    return a;
     }
 };
