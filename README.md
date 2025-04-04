@@ -437,6 +437,7 @@
 | [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -458,6 +459,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -479,6 +481,7 @@
 | [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -500,6 +503,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
