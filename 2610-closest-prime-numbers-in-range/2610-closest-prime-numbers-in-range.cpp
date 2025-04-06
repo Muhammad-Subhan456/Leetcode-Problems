@@ -26,7 +26,7 @@ public:
         // ans[1] = store[i];
       //  cout << ans[0] << " " << ans[1] << endl;
        // cout << diff << endl;
-        if(diff >= (store[i]-store[i-1])){
+        if(diff == (store[i]-store[i-1])){
             ans[0] = store[i-1];
             ans[1] = store[i];
         }
