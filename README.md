@@ -54,6 +54,7 @@
 | [2881-split-strings-by-separator](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2881-split-strings-by-separator) |
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3373-maximum-prime-difference](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3373-maximum-prime-difference) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -78,6 +79,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3373-maximum-prime-difference](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3373-maximum-prime-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Matrix
 |  |
@@ -268,6 +270,7 @@
 | [0204-count-primes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3373-maximum-prime-difference](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3373-maximum-prime-difference) |
 ## Brainteaser
 |  |
 | ------- |
