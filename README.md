@@ -67,6 +67,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0897-prime-palindrome](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -272,6 +273,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0897-prime-palindrome](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0897-prime-palindrome) |
 | [2507-number-of-common-factors](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2507-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
