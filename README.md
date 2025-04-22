@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0078-subsets) |
@@ -111,6 +112,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -169,6 +171,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
