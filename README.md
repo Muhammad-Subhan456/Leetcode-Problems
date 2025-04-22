@@ -466,6 +466,7 @@
 | [1005-univalued-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
@@ -491,6 +492,7 @@
 | [0975-range-sum-of-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
@@ -521,6 +523,7 @@
 | [1005-univalued-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
@@ -547,6 +550,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Quickselect
 |  |
