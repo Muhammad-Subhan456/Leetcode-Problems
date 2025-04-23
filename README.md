@@ -31,6 +31,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1127-last-stone-weight](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1206-corporate-flight-bookings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1206-corporate-flight-bookings) |
 | [1319-unique-number-of-occurrences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -317,6 +318,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [1127-last-stone-weight](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
