@@ -606,4 +606,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
