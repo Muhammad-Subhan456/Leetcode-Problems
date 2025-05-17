@@ -109,6 +109,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
@@ -139,6 +140,7 @@
 | [0234-palindrome-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
@@ -166,6 +168,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0621-task-scheduler](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
@@ -211,6 +214,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0768-partition-labels](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0878-shifting-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
