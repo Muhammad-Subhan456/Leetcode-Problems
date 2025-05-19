@@ -11,24 +11,18 @@
  */
 class Solution {
 public:
-    pair<int,int> diameterFast(TreeNode* root){
-        if(root==NULL){
-            pair<int,int>p = make_pair(0,0);
-            return p;
-        }
-        pair<int,int> left = diameterFast(root->left);
-        pair<int,int> right = diameterFast(root->right);
-        int opt1 = left.first;
-    int opt2 = right.first;
-    int opt3 = left.second + right.second + 1;
-    pair<int,int>ans;
-    ans.first = max(opt1,max(opt2,opt3));
-    ans.second = max(left.second,right.second)+1;
-    return ans;
+     int height(TreeNode* root){
+        if(root==NULL) return 0;
+        int left = height(root->left);
+        int right = height(root->right);
+        return max(left,right)+1;
     }
     int diameterOfBinaryTree(TreeNode* root) {
-    pair<int,int> check = diameterFast(root);
-    return max(check.first,check.second)-1;
+    if(root==NULL) return 0;
+    int opt1 = diameterOfBinaryTree(root->left);
+    int opt2 = diameterOfBinaryTree(root->right);
+    int opt3 = height(root->left)+height(root->right);
+    return max({opt1,opt2,opt3});
 
     }
 };
