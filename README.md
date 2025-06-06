@@ -13,6 +13,7 @@
 | [0134-gas-station](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [1791-richest-customer-wealth](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -522,6 +524,7 @@
 | [0112-path-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
@@ -579,6 +582,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -623,4 +627,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
