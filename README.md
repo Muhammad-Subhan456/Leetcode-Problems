@@ -125,6 +125,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
@@ -244,6 +246,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
@@ -357,6 +360,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
@@ -395,6 +399,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
