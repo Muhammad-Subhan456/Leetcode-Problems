@@ -4,15 +4,7 @@ public:
 void dfs(int i, int j,vector<vector<int>>&vis,vector<vector<int>>& grid, int&cnt){
     int n = grid.size();
     int m = grid[0].size(); 
-    if(i < 0 || j < 0){
-        cnt++;
-        return;
-    }
-    if(i >= n || j >= m){
-        cnt++;
-        return;
-    } 
-    if(grid[i][j] == 0){
+    if(i < 0 || j < 0 || i >= n || j >= m || grid[i][j] == 0 ){
         cnt++;
         return;
     }
