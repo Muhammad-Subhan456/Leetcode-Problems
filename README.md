@@ -8,6 +8,7 @@
 | [0046-permutations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0134-gas-station) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0463-island-perimeter) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -469,6 +472,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Memoization
 |  |
@@ -532,6 +536,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0100-same-tree) |
