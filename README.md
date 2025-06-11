@@ -36,6 +36,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1036-rotting-oranges](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -112,6 +113,7 @@
 | [0463-island-perimeter](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -616,6 +618,7 @@
 | [0733-flood-fill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
