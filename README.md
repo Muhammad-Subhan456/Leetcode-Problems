@@ -554,6 +554,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
@@ -617,6 +618,7 @@
 | [0112-path-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0463-island-perimeter) |
@@ -661,6 +663,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [1916-find-center-of-star-graph](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1916-find-center-of-star-graph) |
 ## Bucket Sort
 |  |
@@ -672,4 +675,8 @@
 | [0130-surrounded-regions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
