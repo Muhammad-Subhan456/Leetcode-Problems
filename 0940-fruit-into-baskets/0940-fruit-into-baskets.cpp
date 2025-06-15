@@ -6,12 +6,11 @@ public:
         while(r < fruits.size()){
             m[fruits[r]]++;
             if(m.size()>2){
-                while(m.size()>2){
                     m[fruits[l]]--;
                     if( m[fruits[l]]==0) m.erase(fruits[l]);
                     l++;
-                }
             }
+                
             if(m.size()<=2) maxi = max(maxi,r-l+1);
             r++;
         }
