@@ -203,6 +203,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -263,6 +264,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -482,6 +484,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
