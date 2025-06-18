@@ -196,6 +196,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -258,6 +259,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
@@ -484,6 +486,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
