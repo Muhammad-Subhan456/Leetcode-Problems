@@ -75,6 +75,7 @@
 | [2873-prime-pairs-with-target-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [2881-split-strings-by-separator](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2881-split-strings-by-separator) |
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3373-maximum-prime-difference](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3373-maximum-prime-difference) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -147,6 +148,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Two Pointers
 |  |
@@ -245,6 +247,7 @@
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2887-sort-vowels-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## String
 |  |
 | ------- |
