@@ -52,6 +52,7 @@
 | [1127-last-stone-weight](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1206-corporate-flight-bookings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1206-corporate-flight-bookings) |
 | [1319-unique-number-of-occurrences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -99,6 +100,7 @@
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -214,6 +216,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
@@ -479,6 +482,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1206-corporate-flight-bookings) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -507,6 +511,7 @@
 | [0940-fruit-into-baskets](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
