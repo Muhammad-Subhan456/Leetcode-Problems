@@ -24,6 +24,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0695-max-area-of-island) |
@@ -199,6 +200,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0768-partition-labels) |
@@ -465,6 +467,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1206-corporate-flight-bookings) |
