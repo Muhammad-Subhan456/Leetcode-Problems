@@ -94,6 +94,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0326-power-of-three) |
@@ -477,6 +478,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
@@ -543,6 +545,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
