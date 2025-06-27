@@ -8,6 +8,7 @@
 | [0046-permutations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -407,6 +408,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -478,6 +480,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
