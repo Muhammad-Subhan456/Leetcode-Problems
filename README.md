@@ -36,6 +36,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0876-hand-of-straights) |
@@ -490,6 +491,7 @@
 | [0152-maximum-product-subarray](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0213-house-robber-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
