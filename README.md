@@ -49,6 +49,7 @@
 | [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
@@ -147,6 +148,7 @@
 | [0463-island-perimeter](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -504,6 +506,7 @@
 | [0198-house-robber](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
