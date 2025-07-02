@@ -17,6 +17,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -498,6 +499,7 @@
 | [0064-minimum-path-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0213-house-robber-ii) |
