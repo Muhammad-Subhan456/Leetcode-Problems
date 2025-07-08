@@ -303,6 +303,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0878-shifting-letters) |
@@ -516,6 +517,7 @@
 | [0213-house-robber-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
