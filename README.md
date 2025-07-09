@@ -163,6 +163,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0768-partition-labels) |
@@ -295,6 +296,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0079-word-search) |
@@ -424,6 +426,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
@@ -510,6 +513,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
