@@ -297,6 +297,7 @@
 | [0020-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -514,6 +515,7 @@
 | [0064-minimum-path-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0198-house-robber) |
