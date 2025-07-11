@@ -13,8 +13,15 @@ int rec(int i,int prevInd,int n,vector<int>&a,vector<vector<int>>&dp){
     return dp[i][prevInd+1] = len;
 }
     int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-    vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-    return rec(0,-1,n,nums,dp);
+    vector<int>temp;
+    temp.push_back(nums[0]);
+    for(int i=1; i < nums.size(); ++i){
+        if(nums[i] > temp.back()) temp.push_back(nums[i]);
+        else{
+        int ind = lower_bound(temp.begin(),temp.end(),nums[i])-temp.begin();
+        temp[ind] = nums[i];
+        }
+    }
+    return temp.size();
     }
 };
