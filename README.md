@@ -71,6 +71,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1127-last-stone-weight) |
+| [1129-longest-string-chain](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1129-longest-string-chain) |
 | [1206-corporate-flight-bookings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1206-corporate-flight-bookings) |
 | [1319-unique-number-of-occurrences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -212,6 +213,7 @@
 | [0874-backspace-string-compare](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [1129-longest-string-chain](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1129-longest-string-chain) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -252,6 +254,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1129-longest-string-chain](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1129-longest-string-chain) |
 | [1319-unique-number-of-occurrences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -293,6 +296,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1129-longest-string-chain](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1129-longest-string-chain) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -323,6 +327,7 @@
 | [0878-shifting-letters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0878-shifting-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1129-longest-string-chain](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
@@ -549,6 +554,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1129-longest-string-chain](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
