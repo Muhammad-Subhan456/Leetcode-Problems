@@ -79,6 +79,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1559-cherry-pickup-ii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -299,6 +300,7 @@
 | [1129-longest-string-chain](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1129-longest-string-chain) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -560,6 +562,7 @@
 | [1250-longest-common-subsequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1559-cherry-pickup-ii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Prefix Sum
 |  |
 | ------- |
