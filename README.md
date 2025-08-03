@@ -139,6 +139,7 @@
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2481-strictly-palindromic-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2507-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -227,6 +228,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
@@ -442,6 +444,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
