@@ -17,10 +17,6 @@ public:
         for(auto p : mp1){
             sum += p.second;
         }
-        for(auto p : mp2){
-            sum += p.second;
-        }
-        
-        return sum/2;  
+        return sum;  
     }
 };
