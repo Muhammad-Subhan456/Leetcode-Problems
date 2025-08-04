@@ -270,6 +270,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -289,6 +290,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -313,6 +315,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -353,6 +356,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
