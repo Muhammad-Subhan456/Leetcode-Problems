@@ -50,6 +50,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0860-design-circular-queue) |
@@ -257,6 +258,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
@@ -578,6 +580,7 @@
 | [0518-coin-change-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
