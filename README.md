@@ -79,6 +79,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1559-cherry-pickup-ii) |
@@ -637,6 +638,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
