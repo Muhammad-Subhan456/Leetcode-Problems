@@ -100,6 +100,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2358-number-of-ways-to-split-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -605,6 +606,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2262-solving-questions-with-brainpower](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Prefix Sum
 |  |
 | ------- |
