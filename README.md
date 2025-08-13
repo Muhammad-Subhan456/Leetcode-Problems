@@ -41,6 +41,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -347,6 +348,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -585,6 +587,7 @@
 | [0322-coin-change](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
