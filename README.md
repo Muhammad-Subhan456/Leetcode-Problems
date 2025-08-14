@@ -380,6 +380,7 @@
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
