@@ -5,7 +5,7 @@ public:
         int n = nums.size();
         while(r < n){
             if(nums[r]==0) del++;
-            while(del > 1){
+            if(del > 1){
                 if(nums[l]==0) del--;
                 l++;
             }
