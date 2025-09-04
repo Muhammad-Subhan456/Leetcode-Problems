@@ -18,7 +18,7 @@ public:
     }
     
     int sumRegion(int a, int b, int c, int d) {
-        // Convert query to 1-based inclusive prefix ranges
+       
         return pre[c + 1][d + 1]
              - pre[a][d + 1]
              - pre[c + 1][b]
