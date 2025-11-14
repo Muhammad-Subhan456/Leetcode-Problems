@@ -551,6 +551,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
@@ -822,6 +823,7 @@
 | [0684-redundant-connection](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0975-range-sum-of-bst](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -884,6 +886,7 @@
 | [0684-redundant-connection](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1036-rotting-oranges) |
@@ -926,6 +929,7 @@
 | [0207-course-schedule](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [1916-find-center-of-star-graph](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1916-find-center-of-star-graph) |
 ## Bucket Sort
 |  |
@@ -952,4 +956,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
