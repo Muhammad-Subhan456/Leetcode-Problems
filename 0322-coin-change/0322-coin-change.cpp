@@ -1,22 +1,25 @@
 class Solution {
 public:
-int rec(int ind,int k,vector<int>&coins,vector<vector<int>>&dp){
-    if(ind==0){
-        if(k % coins[ind]==0) return  k/coins[ind];
-        return 1e9;
-    }
-    if(dp[ind][k] != -1) return dp[ind][k];
-    int nottake = 0 + rec(ind-1,k,coins,dp);
-    int take = INT_MAX;
-    if(coins[ind]<=k)
-    take = 1 + rec(ind,k-coins[ind],coins,dp);
-    return dp[ind][k] = min(take,nottake);
-}
-
-    int coinChange(vector<int>& coins, int amount) {
-        int n = coins.size();
-        vector<vector<int>>dp(n,vector<int>(amount+1,-1));
-        int ans = rec(n-1,amount,coins,dp);
-        return ans < 1e9 ? ans : -1;
+    using vii = vector<vector<int>>;
+    using vi = vector<int>;
+    int coinChange(vector<int>& a, int k) {
+        int n = a.size();
+        vii dp(n, vi(k + 1,-1));
+    function<int(int, int)> rec = [&](int i, int k) -> int
+    {
+        if(i == 0){
+            if(k % a[i] == 0) return k/a[i];
+            return 1e9;
+        }
+        if(dp[i][k] != -1) return dp[i][k];
+        int nt = 0 + rec(i-1,k);
+        int t = 1e9;
+        if(a[i] <= k){
+            t = 1 + rec(i,k-a[i]);
+        }
+        return dp[i][k] = min(t,nt);
+    };
+    int ans = rec(n-1,k);
+    return ans < 1e9 ?  ans :  -1;
     }
 };
