@@ -44,6 +44,7 @@
 | [0377-combination-sum-iv](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
@@ -220,6 +221,7 @@
 | [0055-jump-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -362,6 +364,7 @@
 | [0148-sort-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0621-task-scheduler) |
@@ -658,6 +661,7 @@
 | [0322-coin-change](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0518-coin-change-ii) |
