@@ -153,6 +153,7 @@
 | [0048-rotate-image](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0204-count-primes) |
@@ -398,6 +399,7 @@
 | [0020-valid-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
@@ -490,6 +492,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
@@ -771,6 +774,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0190-reverse-bits) |
