@@ -146,6 +146,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
+| [3637-trionic-array-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
