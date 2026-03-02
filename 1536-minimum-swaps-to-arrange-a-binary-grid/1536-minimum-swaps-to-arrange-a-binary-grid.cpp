@@ -15,11 +15,9 @@ public:
             while(j < n && z[j] < need) j++;
             if(j == n) return -1;
             while(j > i){
-                int temp = z[j];
-                z[j] = z[j-1];
-                z[j-1] = temp;
-                j--;
+                swap(z[j],z[j-1]);
                 swaps++;
+                j--;
             }
         }
         return swaps;
