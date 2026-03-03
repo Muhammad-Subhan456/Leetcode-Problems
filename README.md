@@ -444,6 +444,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -511,6 +512,7 @@
 | [0983-validate-stack-sequences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -577,6 +579,7 @@
 | [0326-power-of-three](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1197-parsing-a-boolean-expression) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
