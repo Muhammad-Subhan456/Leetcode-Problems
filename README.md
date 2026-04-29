@@ -46,6 +46,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
@@ -166,6 +167,7 @@
 | [0279-perfect-squares](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0897-prime-palindrome](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -386,6 +388,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0807-custom-sort-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0876-hand-of-straights) |
