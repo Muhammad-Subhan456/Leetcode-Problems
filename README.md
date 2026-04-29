@@ -115,6 +115,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2058-concatenation-of-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2066-add-minimum-number-of-rungs) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -183,6 +184,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2155-find-missing-observations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -224,6 +226,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -404,6 +407,7 @@
 | [1752-arithmetic-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
