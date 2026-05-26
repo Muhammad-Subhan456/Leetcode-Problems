@@ -354,6 +354,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -482,6 +483,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2881-split-strings-by-separator](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3379-score-of-a-string) |
