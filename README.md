@@ -158,6 +158,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3637-trionic-array-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
@@ -274,6 +275,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +312,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,6 +324,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,6 +435,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
