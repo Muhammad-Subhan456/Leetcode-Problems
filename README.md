@@ -208,6 +208,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -584,6 +585,7 @@
 | [2873-prime-pairs-with-target-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -751,6 +753,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2262-solving-questions-with-brainpower](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
