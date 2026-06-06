@@ -134,6 +134,7 @@
 | [2465-shifting-letters-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
@@ -775,6 +776,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Queue
