@@ -125,6 +125,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2155-find-missing-observations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2155-find-missing-observations) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -365,6 +366,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1945-finding-the-users-active-minutes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1945-finding-the-users-active-minutes) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -906,6 +908,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -978,6 +981,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
