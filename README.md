@@ -527,6 +527,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3838-weighted-word-mapping](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -596,6 +597,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
