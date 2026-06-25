@@ -168,6 +168,7 @@
 | [3637-trionic-array-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -397,6 +398,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3713-longest-balanced-substring-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 | Problem Name | Difficulty |
@@ -416,6 +418,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3713-longest-balanced-substring-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -668,6 +671,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -689,6 +693,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -815,6 +820,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1123,6 +1129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
