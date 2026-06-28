@@ -110,6 +110,7 @@
 | [1791-richest-customer-wealth](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-maximum-ice-cream-bars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -280,6 +281,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1917-maximum-average-pass-ratio](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2066-add-minimum-number-of-rungs) |
@@ -452,6 +454,7 @@
 | [1752-arithmetic-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
