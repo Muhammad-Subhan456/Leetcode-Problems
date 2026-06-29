@@ -116,6 +116,7 @@
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1945-finding-the-users-active-minutes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -520,6 +521,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
