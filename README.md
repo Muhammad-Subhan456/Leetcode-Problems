@@ -90,6 +90,7 @@
 | [1127-last-stone-weight](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1129-longest-string-chain) |
 | [1206-corporate-flight-bookings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1206-corporate-flight-bookings) |
+| [1288-remove-covered-intervals](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1319-unique-number-of-occurrences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -455,6 +456,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1129-longest-string-chain](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1129-longest-string-chain) |
+| [1288-remove-covered-intervals](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
