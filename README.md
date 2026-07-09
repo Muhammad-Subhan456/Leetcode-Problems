@@ -166,6 +166,7 @@
 | [3429-special-array-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -356,6 +357,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -412,6 +414,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1182,9 +1185,11 @@
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
