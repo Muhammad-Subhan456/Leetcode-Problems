@@ -586,6 +586,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
@@ -672,6 +673,7 @@
 | [2873-prime-pairs-with-target-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
