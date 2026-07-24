@@ -170,6 +170,7 @@
 | [3429-special-array-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -233,6 +234,7 @@
 | [3373-maximum-prime-difference](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3373-maximum-prime-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -973,6 +975,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
