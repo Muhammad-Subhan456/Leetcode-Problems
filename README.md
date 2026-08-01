@@ -49,6 +49,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0518-coin-change-ii) |
@@ -203,6 +204,7 @@
 | [0326-power-of-three](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0486-predict-the-winner](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0897-prime-palindrome](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0897-prime-palindrome) |
@@ -723,6 +725,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -735,6 +738,7 @@
 | [0206-reverse-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -858,6 +862,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
