@@ -187,6 +187,7 @@
 | [3637-trionic-array-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -452,6 +453,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -528,6 +530,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
