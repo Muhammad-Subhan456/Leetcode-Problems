@@ -92,6 +92,7 @@
 | [1121-partition-array-for-maximum-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1206-corporate-flight-bookings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1206-corporate-flight-bookings) |
 | [1260-shift-2d-grid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -215,6 +216,7 @@
 | [1013-fibonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1236-n-th-tribonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1370-count-number-of-nice-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -740,6 +742,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
@@ -891,6 +894,7 @@
 | [1105-uncrossed-lines](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1170-shortest-common-supersequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
@@ -919,6 +923,7 @@
 | [0878-shifting-letters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1206-corporate-flight-bookings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1206-corporate-flight-bookings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -1292,9 +1297,11 @@
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
