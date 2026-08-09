@@ -336,6 +336,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -380,6 +381,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -614,6 +616,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3379-score-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3379-score-of-a-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -906,6 +909,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2262-solving-questions-with-brainpower](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
