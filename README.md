@@ -162,6 +162,7 @@
 | [2873-prime-pairs-with-target-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [2881-split-strings-by-separator](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2881-split-strings-by-separator) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -449,6 +450,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -530,6 +532,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
