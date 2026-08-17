@@ -135,6 +135,7 @@
 | [2058-concatenation-of-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2066-add-minimum-number-of-rungs) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2080-range-frequency-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2080-range-frequency-queries/) | Medium |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2126-destroying-asteroids](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -399,6 +400,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2080-range-frequency-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2080-range-frequency-queries/) | Medium |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -447,6 +449,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1945-finding-the-users-active-minutes](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1945-finding-the-users-active-minutes) |
+| [2080-range-frequency-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2080-range-frequency-queries/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1004,6 +1007,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0859-design-circular-deque](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/0860-design-circular-queue) |
+| [2080-range-frequency-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2080-range-frequency-queries/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1281,6 +1285,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [2080-range-frequency-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2080-range-frequency-queries/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
