@@ -1,6 +1,6 @@
 class RangeFreqQuery {
 public:
-    vector<unordered_map<int,int>>seg;
+    vector<map<int,int>>seg;
     int n;
     RangeFreqQuery(vector<int>& arr) {
         n = arr.size();
@@ -9,8 +9,8 @@ public:
         //display();
     }
 
-    unordered_map<int,int> merge(const auto &left,const auto &right){
-        unordered_map<int,int> mp;
+    map<int,int> merge(const auto &left,const auto &right){
+        map<int,int> mp;
         for(auto &c : left){
             mp[c.first] += c.second;
         }
