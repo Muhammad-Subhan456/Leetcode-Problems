@@ -141,6 +141,7 @@
 | [2155-find-missing-observations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -605,6 +606,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -1275,6 +1277,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1314,4 +1317,8 @@
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
