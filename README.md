@@ -102,6 +102,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1395-count-number-of-teams](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1395-count-number-of-teams/) | Medium |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -914,6 +915,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1395-count-number-of-teams](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1395-count-number-of-teams/) | Medium |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1285,6 +1287,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [1395-count-number-of-teams](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1395-count-number-of-teams/) | Medium |
 | [2080-range-frequency-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2080-range-frequency-queries/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -1334,6 +1337,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [1395-count-number-of-teams](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1395-count-number-of-teams/) | Medium |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
