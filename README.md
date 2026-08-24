@@ -165,6 +165,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [2881-split-strings-by-separator](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2881-split-strings-by-separator) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -404,6 +405,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2080-range-frequency-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2080-range-frequency-queries/) | Medium |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -809,6 +811,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1917-maximum-average-pass-ratio](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -855,6 +858,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -868,6 +872,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1292,6 +1297,7 @@
 | [1395-count-number-of-teams](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1395-count-number-of-teams/) | Medium |
 | [2080-range-frequency-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2080-range-frequency-queries/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1340,6 +1346,7 @@
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [1395-count-number-of-teams](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/1395-count-number-of-teams/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
