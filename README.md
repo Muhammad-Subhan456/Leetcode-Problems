@@ -196,6 +196,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3637-trionic-array-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -474,6 +475,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
