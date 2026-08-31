@@ -183,6 +183,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3479-fruits-into-baskets-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -408,6 +409,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3479-fruits-into-baskets-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -1301,6 +1303,7 @@
 | [2080-range-frequency-queries](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2080-range-frequency-queries/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3479-fruits-into-baskets-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1344,6 +1347,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3479-fruits-into-baskets-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
