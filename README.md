@@ -184,6 +184,7 @@
 | [3429-special-array-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3479-fruits-into-baskets-iii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3479-fruits-into-baskets-iii/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -481,6 +482,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -743,6 +745,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -793,6 +796,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
