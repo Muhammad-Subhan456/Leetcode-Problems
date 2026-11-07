@@ -161,6 +161,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2747-count-zero-request-servers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
@@ -472,6 +473,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2747-count-zero-request-servers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -558,6 +560,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2747-count-zero-request-servers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2887-sort-vowels-in-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1018,6 +1021,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2747-count-zero-request-servers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
