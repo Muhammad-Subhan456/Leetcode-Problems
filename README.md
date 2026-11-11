@@ -281,6 +281,7 @@
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -365,6 +366,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
