@@ -641,6 +641,7 @@
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
@@ -728,6 +729,7 @@
 | [2155-find-missing-observations](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2298-count-integers-with-even-digit-sum) |
