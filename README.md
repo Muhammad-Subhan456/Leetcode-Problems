@@ -155,6 +155,7 @@
 | [2465-shifting-letters-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -358,6 +359,7 @@
 | [2126-destroying-asteroids](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3195-separate-black-and-white-balls](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
@@ -564,6 +566,7 @@
 | [2126-destroying-asteroids](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2747-count-zero-request-servers](https://github.com/Muhammad-Subhan456/Leetcode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
